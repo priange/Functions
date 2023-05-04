@@ -18,9 +18,9 @@ def my_country(country="rwanda"):
 
     # return answer
 
-    def student.attributes("keywords")
-    for keys,values in keywords.items():
-    print(f"{key} .{value}")
+    # def student.attributes("keywords")
+    # for keys,values in keywords.items():
+    #   print(f"{key} .{value}")
 
 
 
